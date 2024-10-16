@@ -1,0 +1,3 @@
+Developed a Credit Card Fraud Detection system using advanced machine learning algorithms, achieving 91.97% accuracy by addressing class imbalance with undersampling and oversampling techniques.
+Executed thorough data preprocessing and exploratory data analysis (EDA) using Python libraries (Pandas, NumPy, Matplotlib, Seaborn), ensuring robust model development and performance optimization.
+Fine-tuned multiple models, including Logistic Regression and Decision Tree to enhance accuracy and minimize overfitting.
